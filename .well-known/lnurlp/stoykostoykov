@@ -4,7 +4,7 @@
     "tag":"payRequest",
     "commentAllowed":255,
     "callback":"https://getalby.com/lnurlp/stoykostoykov/callback",
-    "metadata":"[[\"text/identifier\",\"stoykostoykov@getalby.com\"],[\"text/plain\",\"Sats for stoykostoykov\"]]",
+    "metadata":"[[\"text/identifier\",\"stoykostoykov@getalby.com\"],[\"text/plain\",\"Sats for Stoyko Stoykov\"]]",
     "minSendable":1000,
     "maxSendable":11000000000,
     "payerData":{
